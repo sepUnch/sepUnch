@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="left">Hi 👋, I'm Fahri Arkan</h1>
 
-<!--
-**sepUnch/sepUnch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Software+Developer;Back-end+Enthusiast;Hi+Guys)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain0205&label=Profile%20views&color=0e75b6&style=flat" alt="zain0205" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **Golang**
+
+- 💬 Ask me about **React JS, TailwindCSS**
+
+- 📫 How to reach me **fahrizulfadli14@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/fhrkann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fhrkann" height="30" width="40" /></a>
+</p>
