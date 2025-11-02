@@ -6,9 +6,8 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 💬 Ask me about **React JS, TailwindCSS**
-
-- 📫 How to reach me **fahrizulfadli14@gmail.com**
+- 💬 Feel free to ask anything 
+- 📫 How to reach me **fahrizulfadli14@gmail.com** or my LinkedIn https://www.linkedin.com/in/fahri-arkan-b6a211334/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
