@@ -1,23 +1,22 @@
-<h1 align="left">Hi 👋, I'm Fahri Arkan</h1>
+<!-- Waving Hi -->
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" alt="wave" /> Hi 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CDAF7&center=true&vCenter=true&width=435&lines=Software+Developer;Back-end+Enthusiast;Hi+Guys)](https://git.io/typing-svg)
+<!-- Profile Views -->
+<a href="https://github.com/sepUnch">
+  <img align="left" src="https://komarev.com/ghpvc/?username=sepUnch&label=Profile%20views&color=3EB489&style=flat" alt="Profile views" />
+</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zain0205&label=Profile%20views&color=0e75b6&style=flat" alt="zain0205" /> </p>
+<br>
+<br>
 
-- 🌱 I’m currently learning **Golang**
-
-- 💬 Feel free to ask anything 
-- 📫 How to reach me **fahrizulfadli14@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/fhrkann" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - fhrkann" height="30" width="40" style="margin-right: 20 px;" />
+<!-- Typing Animation -->
+<div align="center">
+  <a href="https://github.com/sepUnch">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=3EB489&center=true&vCenter=true&width=500&lines=Hi,+I'm+Fahri-Arkan;Computer+Science+Student;Software+Engineer;Lets+Collaboration!" alt="Typing Animation" />
   </a>
-  <a href="https://www.linkedin.com/in/fahri-arkan-b6a211334/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - fahriarkan" height="30" width="40" />
-  </a>
-</p>
+</div>
+
+<hr style="border: 0.5px solid #333;">
 
 ## 🛠️ Tech Stack & Tools  
 <p align="left">
@@ -29,7 +28,6 @@
 </p>
 
 <hr style="border: 0.5px solid #333;">
-
 
 <div align="start">
   <img
@@ -45,3 +43,13 @@
     style="display:inline-block;" 
   />
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://instagram.com/fhrkann" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - fhrkann" height="30" width="40" style="margin-right: 20 px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/fahri-arkan-b6a211334/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - fahriarkan" height="30" width="40" />
+  </a>
+</p>
