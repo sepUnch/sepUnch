@@ -44,7 +44,6 @@
   />
 </div>
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://instagram.com/fhrkann" target="_blank">
