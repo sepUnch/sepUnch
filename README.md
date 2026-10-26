@@ -20,47 +20,58 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-```go
-package main
-
-type Engineer struct {
-    Name     string
-    Role     string
-    Study    string
-    Focus    []string
-    Learning []string
-}
-
-func main() {
-    fahri := Engineer{
-        Name:     "Fahri Arkan",
-        Role:     "Software Engineer",
-        Study:    "Informatics Engineering @ Universitas Esa Unggul",
-        Focus:    []string{"Backend with Go", "Web Apps with Next.js & React"},
-        Learning: []string{"LLM & RAG", "System Design", "Clean Architecture"},
-    }
-    _ = fahri // 🚀 Let's build something great together!
-}
-```
-
-- 🔭 Currently building web apps and exploring **AI / RAG-based chatbots**
-- 🌱 Leveling up in **backend engineering & system design**
-- 👯 Open to **collaboration** on interesting projects
-- 💬 Ask me about **Go, Next.js, React, Express**
-- ⚡ Fun fact: I write Go structs even in my README 😄
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <p>
+        I'm a <b>software engineer</b> and Informatics student at
+        <b>Universitas Esa Unggul</b> who enjoys turning ideas into products
+        that people actually use, from fast <b>Go</b> backends to clean
+        <b>Next.js</b> interfaces.
+      </p>
+      <p>
+        Lately I've been exploring how <b>LLMs</b> and
+        <b>retrieval-augmented generation (RAG)</b> can solve real problems,
+        not just make good demos.
+      </p>
+      <p>
+        <i>"Make it work, make it right, make it fast."</i>
+      </p>
+    </td>
+    <td width="45%" valign="top">
+      <b>Focus</b><br/>
+      Backend services &amp; full-stack web apps<br/><br/>
+      <b>Currently exploring</b><br/>
+      LLM, RAG, and system design<br/><br/>
+      <b>Open to</b><br/>
+      Internships, freelance, and collaboration<br/><br/>
+      <b>Reach me</b><br/>
+      <a href="https://www.linkedin.com/in/fahri-arkan-b6a211334/">LinkedIn</a> ·
+      <a href="https://fahri-arkan-portofolio.vercel.app">Portfolio</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,nextjs,react,express,tailwind,nodejs,js,ts&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=go,java,ts,js,dart&perline=9" alt="Languages" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux&perline=8" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=spring,nextjs,react,nodejs,express,tailwind&perline=9" alt="Frameworks" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka,docker,kubernetes,gcp,linux&perline=9" alt="Infrastructure & Cloud" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&perline=9" alt="Tools" />
 </p>
 
 ---
@@ -68,16 +79,16 @@ func main() {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sepUnch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sepUnch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepUnch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://git-hub-streak-stats.vercel.app/?user=sepUnch&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=sepUnch&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sepUnch&bg_color=1a1b27&color=3EB489&line=3EB489&point=ffffff&area=true&hide_border=true" alt="Activity graph" />
+  <img width="100%" src="https://ghchart.rshah.org/3EB489/sepUnch" alt="Contribution chart" />
 </p>
 
 ---
